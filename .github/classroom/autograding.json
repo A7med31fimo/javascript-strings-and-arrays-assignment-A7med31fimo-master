@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "AsciiArt.test",
+      "setup": "npm install",
+      "run": "npm test AsciiArt.test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 3
+    },
+    {
+      "name": "AsciiArt4.test",
+      "setup": "npm install",
+      "run": "npm test AsciiArt4.test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "AsciiArt3.test",
+      "setup": "npm install",
+      "run": "npm test AsciiArt3.test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "AsciiArt2.test",
+      "setup": "npm install",
+      "run": "npm test AsciiArt2.test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    }
+  ]
+}
